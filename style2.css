@@ -1,0 +1,26 @@
+@charset "UTF-8";
+*{
+    font-size: 1.5em;
+    font-family: sans-serif;
+}
+
+main{
+    place-items: center; 
+}
+
+
+.endeota{
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+    margin: center;
+    align-items: center;
+    
+}
+.teste_34{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    
+
+}
